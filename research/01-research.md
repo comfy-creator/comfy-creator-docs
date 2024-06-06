@@ -62,10 +62,8 @@ text-prompts. Numerical-vectors are provided for SD1, SDXL, SVD, and DeepFloyd-I
 
 - April 2024
 - Authors: Nvidia
--
-
-Info: https://research.nvidia.com/labs/toronto-ai/AlignYourSteps/?utm_source=sinkin.beehiiv.com&utm_medium=newsletter&utm_campaign=hidiffusion-videogigagan-align-your-steps-hyper-sd-predicting-political-views
-
+- Info:
+  https://research.nvidia.com/labs/toronto-ai/AlignYourSteps/?utm_source=sinkin.beehiiv.com&utm_medium=newsletter&utm_campaign=hidiffusion-videogigagan-align-your-steps-hyper-sd-predicting-political-views
 - Library used: none
 - Code: none
 - ComfyUI implementations: this was built into ComfyUI core as an array of numbers, produced by an ‘align your steps’

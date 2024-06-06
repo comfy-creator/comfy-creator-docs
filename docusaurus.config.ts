@@ -78,6 +78,7 @@ const config: Config = {
                 src: '/img/img.png',
             },
             items: [
+                {to: '/docs/intro', label: 'Docs', position: 'left'},
                 {to: '/research/research', label: 'Research', position: 'left'},
                 {
                     href: 'https://github.com/comfy-creator/comfy-creator-docs',
